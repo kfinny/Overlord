@@ -1,0 +1,3 @@
+[submodule "libraries/cmake/source/sleuthkit/src"]
+	path = libraries/cmake/source/sleuthkit/src
+	url = https://github.com/sleuthkit/sleuthkit
