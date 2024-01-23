@@ -1,3 +1,9 @@
 [submodule "libraries/cmake/source/sleuthkit/src"]
 	path = libraries/cmake/source/sleuthkit/src
 	url = https://github.com/sleuthkit/sleuthkit
+[submodule "libraries/cmake/source/zlib/src"]
+	path = libraries/cmake/source/zlib/src
+	url = https://github.com/madler/zlib
+[submodule "libraries/cmake/source/sqlite/src"]
+	path = libraries/cmake/source/sqlite/src
+	url = https://github.com/osquery/third-party-sqlite
