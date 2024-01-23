@@ -6,5 +6,7 @@
 #include <iostream>
 
 // TODO: Reference additional headers your program requires here.
-#include "tsk/libtsk.h"
-
+#include <tsk/libtsk.h>
+#include <openssl/crypto.h>
+#include <yara.h>
+#include <zlib.h>
