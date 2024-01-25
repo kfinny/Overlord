@@ -117,6 +117,7 @@ function(importLibraries)
     # "Linux:expat"
     # "Linux:dbus"
     # "Linux:libcap"
+    "Linux,Darwin,Windows:httplib"
   )
 
   if(OVERLORD_BUILD_BPF)

@@ -8,5 +8,7 @@
 // TODO: Reference additional headers your program requires here.
 #include <tsk/libtsk.h>
 #include <openssl/crypto.h>
+#define CPPHTTPLIB_OPENSSL_SUPPORT
+#include <httplib.h>
 #include <yara.h>
 #include <zlib.h>

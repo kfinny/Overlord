@@ -11,4 +11,5 @@ target_link_libraries(overlord PRIVATE
     thirdparty_sleuthkit_settings
     thirdparty_openssl
     thirdparty_yara
-    thirdparty_zlib)
+    thirdparty_zlib
+    thirdparty_httplib)
